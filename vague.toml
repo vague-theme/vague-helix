@@ -58,6 +58,9 @@
 "ui.selection.primary" = { bg = "onyx" }
 "ui.statusline" = { fg = "white", bg = "shadow" }
 "ui.statusline.inactive" = { fg = "muted", bg = "black" }
+"ui.statusline.insert" = { fg = "shadow", bg = "green" }
+"ui.statusline.normal" = { fg = "shadow", bg = "blue" }
+"ui.statusline.select" = { fg = "shadow", bg = "amber" }
 "ui.text" = "white"
 "ui.text.directory" = "magenta"
 "ui.text.focus" = { bg = "graphite" }
