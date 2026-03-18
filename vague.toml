@@ -3,6 +3,7 @@
 
 "comment" = "muted"
 "constant" = "cyan"
+"constant.builtin" = "gold"
 "constant.numeric" = "gold"
 "constructor" = "cyan"
 "debug" = "red"
@@ -21,31 +22,52 @@
 "hint" = "iris"
 "info" = "cyan"
 "keyword" = "blue"
+"label" = "blue"
+"markup.bold" = { modifiers = ["bold"] }
+"markup.heading" = "blue"
+"markup.italic" = { modifiers = ["italic"] }
+"markup.link.label" = "amber"
+"markup.link.text" = "amber"
+"markup.link.url" = "peach"
+"markup.list" = "peach"
+"markup.raw" = "cyan"
+"markup.strikethrough" = { modifiers = ["crossed_out"] }
 "special" = "aqua"
 "string" = "amber"
+"string.escape" = "blue"
+"string.regex" = "blue"
+"string.special" = "blue"
+"string.special.url" = "peach"
 "type" = "teal"
-"ui.background" = { bg = "black" }
-"ui.bufferline" = { fg = "white", bg = "shadow" }
-"ui.bufferline.active" = { fg = "shadow", bg = "white" }
+"ui.background" = { fg = "white", bg = "black" }
+"ui.bufferline" = { fg = "muted", bg = "shadow" }
+"ui.bufferline.active" = { fg = "white", bg = "black" }
 "ui.cursor" = { bg = "white", fg = "black" }
 "ui.cursor.match" = { bg = "onyx" }
 "ui.cursorline" = { bg = "graphite" }
+"ui.cursorline.secondary" = { bg = "shadow" }
 "ui.debug" = "red"
 "ui.help" = { bg = "graphite" }
-"ui.highlight" = { bg="graphite" }
 "ui.linenr" = "muted"
 "ui.linenr.selected" = "white"
 "ui.menu" = { bg = "shadow" }
+"ui.menu.scroll" = { fg = "muted", bg = "shadow" }
 "ui.menu.selected" = { bg = "graphite" }
-"ui.popup" = { bg = "shadow" }
-"ui.selection" = { bg = "onyx" }
-"ui.statusline" = { bg = "shadow" }
+"ui.popup" = { fg = "white", bg = "shadow" }
+"ui.selection" = { bg = "storm" }
+"ui.selection.primary" = { bg = "onyx" }
+"ui.statusline" = { fg = "white", bg = "shadow" }
 "ui.statusline.inactive" = { fg = "muted", bg = "black" }
 "ui.text" = "white"
+"ui.text.directory" = "magenta"
+"ui.text.focus" = { bg = "graphite" }
 "ui.virtual" = "graphite"
 "ui.virtual.ruler" = { bg = "graphite" }
-"ui.window" = { fg = "gray" }
+"ui.window" = "gray"
 "variable" = "white"
+"variable.builtin" = "aqua"
+"variable.member" = "aqua"
+"variable.other" = "aqua"
 "variable.parameter" = "magenta"
 "warning" = "yellow"
 
