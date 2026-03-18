@@ -1,6 +1,7 @@
 # Author:   Artem Krinitsyn
 # Upstream: https://github.com/vague-theme/vague-helix
 
+"attribute" = "cyan"
 "comment" = "muted"
 "constant" = "cyan"
 "constant.builtin" = "gold"
@@ -32,12 +33,14 @@
 "markup.list" = "peach"
 "markup.raw" = "cyan"
 "markup.strikethrough" = { modifiers = ["crossed_out"] }
+"operator" = "lavender"
 "special" = "aqua"
 "string" = "amber"
 "string.escape" = "blue"
 "string.regex" = "blue"
 "string.special" = "blue"
 "string.special.url" = "peach"
+"tag" = "aqua"
 "type" = "teal"
 "ui.background" = { fg = "white", bg = "black" }
 "ui.bufferline" = { fg = "muted", bg = "shadow" }
