@@ -50,10 +50,10 @@
 "ui.cursorline" = { bg = "graphite" }
 "ui.cursorline.secondary" = { bg = "shadow" }
 "ui.debug" = "red"
-"ui.help" = { bg = "graphite" }
+"ui.help" = { fg = "white", bg = "graphite" }
 "ui.linenr" = "muted"
 "ui.linenr.selected" = "white"
-"ui.menu" = { bg = "shadow" }
+"ui.menu" = { fg = "white", bg = "shadow" }
 "ui.menu.scroll" = { fg = "muted", bg = "shadow" }
 "ui.menu.selected" = { bg = "graphite" }
 "ui.popup" = { fg = "white", bg = "shadow" }
