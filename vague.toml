@@ -46,7 +46,7 @@
 "ui.bufferline" = { fg = "muted", bg = "shadow" }
 "ui.bufferline.active" = { fg = "white", bg = "black" }
 "ui.cursor" = { bg = "white", fg = "black" }
-"ui.cursor.match" = { bg = "onyx" }
+"ui.cursor.match" = { bg = "onyx", modifiers = ["bold"] }
 "ui.cursorline" = { bg = "graphite" }
 "ui.cursorline.secondary" = { bg = "shadow" }
 "ui.debug" = "red"
