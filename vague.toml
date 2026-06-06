@@ -67,7 +67,7 @@
 "ui.text" = "white"
 "ui.text.directory" = "magenta"
 "ui.text.focus" = { bg = "graphite" }
-"ui.virtual" = "graphite"
+"ui.virtual" = "onyx"
 "ui.virtual.ruler" = { bg = "graphite" }
 "ui.window" = "gray"
 "variable" = "white"
