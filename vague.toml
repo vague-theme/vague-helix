@@ -68,6 +68,7 @@
 "ui.text.directory" = "magenta"
 "ui.text.focus" = { bg = "graphite" }
 "ui.virtual" = "onyx"
+"ui.virtual.jump-label" = { fg = "red", modifiers = ["bold"] }
 "ui.virtual.ruler" = { bg = "graphite" }
 "ui.window" = "gray"
 "variable" = "white"
